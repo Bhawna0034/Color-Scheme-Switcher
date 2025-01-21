@@ -8,7 +8,8 @@ A simple and interactive web application that allows users to switch between dif
 - Lightweight and fast.
 
 ##  Demo
-    https://bhawna0034.github.io/Color-Scheme-Switcher/
+https://bhawna0034.github.io/Color-Scheme-Switcher/ 
+<br>
 Click here to view the live project
       
 
